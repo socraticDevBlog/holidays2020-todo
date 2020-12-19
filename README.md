@@ -9,7 +9,13 @@ daily builders have more free time, it is a moral duty to build stuff under the 
 | Googlebot | destroying kenster | TBD | 2020-12-19 |  |
 | socdev | flask web app 1 | having authentication working | 2020-12-19 |  |
 | socdev | AspCore basic razor app with TypeScript | having a Delete confirmation modale working | 2020-12-19 |  |
-| socdev | flask web app 2 | having a database working  | 2020-12-10 |  |
+| socdev | flask web app 2 | having a database working  | 2020-12-19 |  |
+|socdev  | reading novel | finishing a novel | 2020-12-19 |  |
+| socdev | reading blog posts | have read some blog posts(PG for example) | 2020-12-19 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
