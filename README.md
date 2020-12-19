@@ -8,6 +8,15 @@ daily builders have more free time, it is a moral duty to build stuff under the 
 | Googlebot  | PineCube werking   | it werks | 2020-12-19 |  |
 | Googlebot  | Installing NixOS   | having it installed | 2020-12-19 |  |
 | Googlebot  | destroying kenster | TBD | 2020-12-19 |  |
+| Googlebot  | Upgrade the lounge | it werks | 2020-12-19 | 2020-12-19 |
+| Googlebot  | IRC Bot General URI Support | Tor, I2C, ftp URIs work for DLs | 2020-12-19 | |
+| Googlebot  | IRC Bot Persistent Config | Runtime Config stays after restart | 2020-12-19 | |
+| Googlebot  | IRC Bot can ignore users by mask | it werks | 2020-12-19 | |
+| Googlebot  | Improve Tessaract Character Recog. | Either faster or more responsive | 2020-12-19 | |
+| Googlebot  | Host Gitia instance | it werks | 2020-12-19 | |
+| Googlebot  | AoC in Zig | Zig is amazing | 2020-12-19 | |
+| Googlebot  | Explore avatarify using Kenster song as demo | | 2020-12-19 | |
+| Googlebot  | Finish Dpro while kenster is slacking | dpro done | 2020-12-19 | |
 | socdev     | flask web app 1    | having authentication working | 2020-12-19 |  |
 | socdev     | AspCore basic razor app with TypeScript | having a Delete confirmation modale working | 2020-12-19 |  |
 | socdev     | flask web app 2 | having a database working  | 2020-12-19 |  |
