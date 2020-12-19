@@ -1,0 +1,4 @@
+theme: jekyll-theme-hacker
+include:
+  - README.md
+  - CONTRIBUTING.md
