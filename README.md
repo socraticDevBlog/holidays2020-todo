@@ -2,6 +2,7 @@
 daily builders have more free time, it is a moral duty to build stuff under the web watchful eyes
 
 ## todo stack ⚙️⚗️
+
 | who | what | definition of done | date added | date done |
 |---|--------|--------------------|----------|-------------|
 | Googlebot  | PineCube werking   | it werks | 2020-12-19 |  |
