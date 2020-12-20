@@ -23,3 +23,6 @@ daily builders have more free time, it is a moral duty to build stuff under the 
 | socdev     | flask web app 2 | having a database working  | 2020-12-19 |  |
 | socdev     | reading novel | finishing a novel | 2020-12-19 |  |
 | socdev     | reading blog posts | have read some blog posts(PG for example) | 2020-12-19 |  |
+| winny      | finish each day of aoc in a different language | do it | 2020-12-19 | |
+| winny      | update blog | write a few blog posts | 2020-12-19 | |
+
