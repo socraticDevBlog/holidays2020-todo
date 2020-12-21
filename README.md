@@ -5,7 +5,7 @@ daily builders have more free time, it is a moral duty to build stuff under the 
 
 | who | what | definition of done | date added | date done |
 |---|--------|--------------------|----------|-------------|
-| socdev     | fixing my chromebook(change firmware) | Chromebook will work after battery drained | 2020-12-20 |  |
+| socdev     | fixing my chromebook(change firmware) | Chromebook will work after battery drained | 2020-12-20 | 2020-12-12 |
 | Googlebot  | PineCube werking   | it werks | 2020-12-19 |  |
 | Googlebot  | Installing NixOS   | having it installed | 2020-12-19 |  |
 | Googlebot  | destroying kenster | TBD | 2020-12-19 |  |
